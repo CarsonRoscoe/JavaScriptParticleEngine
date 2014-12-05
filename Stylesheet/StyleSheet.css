@@ -1,0 +1,10 @@
+#canvasDiv {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#myCanvas {
+    margin: auto;
+    border: 10px;
+    border-style: groove;
+}
